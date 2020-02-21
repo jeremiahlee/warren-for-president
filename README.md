@@ -1,6 +1,33 @@
-# Senator Warren should be the next president of the United States
+# Social media banners for Elizabeth Warren for President
 
 I noticed her campaign did not have any social media headers or other assets for supporters to use. I started to create some. Collaborators are welcomed.
+
+Right click, save the image, and then update your social media header.
+
+## For Facebook (which is evil)
+
+![blue green](https://raw.githubusercontent.com/jeremiahlee/warren-for-president/master/blue-green-facebook-cover%402x.png)
+
+![red white blue](https://raw.githubusercontent.com/jeremiahlee/warren-for-president/master/red-white-blue-facebook-cover%402x.png)
+
+![pride](https://raw.githubusercontent.com/jeremiahlee/warren-for-president/master/pride-facebook-cover%402x.png)
+
+
+## For Twitter
+
+![blue green](https://raw.githubusercontent.com/jeremiahlee/warren-for-president/master/blue-green-twitter-header%402x.png)
+
+![red white blue](https://raw.githubusercontent.com/jeremiahlee/warren-for-president/master/red-white-blue-twitter-header.png)
+
+![pride](https://raw.githubusercontent.com/jeremiahlee/warren-for-president/master/pride-twitter-header.png)
+
+
+## For Mastodon
+
+![blue green](https://raw.githubusercontent.com/jeremiahlee/warren-for-president/master/blue-green-mastodon-header.png)
+
+![red white blue](https://raw.githubusercontent.com/jeremiahlee/warren-for-president/master/red-white-blue-mastodon-header.png)
+
 
 ## Contributing
 
